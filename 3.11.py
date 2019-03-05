@@ -1,3 +1,4 @@
+# 文本进度条
 import time
 print("执行开始".center(50, '-'))
 scale = 50
