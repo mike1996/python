@@ -1,3 +1,3 @@
 a = input()
-print("今天还好")
+print("{}".format(a))
 a = 80
